@@ -6,9 +6,9 @@ title: About Archie
 
 您好，我是[Archie][]，欢迎光临我的博客，我是一名嵌入式软件工程师，目前从事中短距离无线通信组网协议的开发工作。
 
-博客正在修改之中，感谢关注。如有问题可以发邮件给我 <a href="" title="E-MAIL" onclick="alert('archiex.archie at Gmail');return false;">eMail</a>
+博客正在修改之中，感谢关注。如有问题可以发邮件给我 <a href="" title="E-MAIL" onclick="alert('archiex.archie at Gmail');return false;">E-Mail</a>
 
-    <!--*** 或者在<a href="http://weibo.com/beiyuu" title="我的闲言碎语" target="_blank" class="external">微博</a>关注我。********-->
+<!--*** 或者在<a href="http://weibo.com/beiyuu" title="我的闲言碎语" target="_blank" class="external">微博</a>关注我。********-->
 
 最近看过：
 <!--
